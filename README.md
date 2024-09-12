@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 💬 Ask me about **Automation, Kubernetes, AWS and Soccer (Barcelona)**
+- 💬 Ask me about **Cloud/DevOps Automation and Soccer (Barcelona)**
 
 - ⚡ Fun fact **I speak 3 languages**
 
